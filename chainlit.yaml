@@ -2,8 +2,8 @@ chainlit: 2.4.1
 
 # Interface settings
 ui:
-  name: "Stateful Chatbot"
-  description: "A Simple Stateful chatbot Powered By Google Gemini Model."
+  name: "Chainlit Chatbot"
+  description: "A simple Stateful chatbot with GitHub authentication built with Python, UV, and Chainlit."
 
 # Message settings
 default_expand_messages: true
